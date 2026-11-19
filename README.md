@@ -29,7 +29,29 @@ python main.py
 - Menos de 3 pontos: orientação não encontrada.
 
 ## Teste com usuários
-Preencher após testar com pelo menos 3 pessoas de fora da equipe e somar 10 ou mais atendimentos. Não registrar nomes nem dados pessoais.
+- Código: P1
+- Data: 13/11/2026
+- Tarefa: Perguntar como economizar energia com LED.
+- Concluiu? Sim.
+- Dificuldade observada: Não apresentou dificuldades.
+- Comentário: Achou interessante descobrir quanto poderia economizar substituindo lâmpadas antigas por LED.
+- Ajuste realizado: Nenhum ajuste necessário.
+---
+- Código: P2
+- Data: 13/11/2026
+- Tarefa: Consultar a comparação entre LED e energia solar.
+- Concluiu? Parcialmente.
+- Dificuldade observada: Teve dificuldade para entender o tempo de retorno do investimento.
+- Comentário: Gostaria de uma explicação mais simples sobre o retorno financeiro.
+- Ajuste realizado: Adicionar uma explicação sobre o tempo necessário para recuperar o investimento.
+---
+- Código: P3
+- Data: 18/11/2026
+- Tarefa: Perguntar ao assistente qual alternativa é mais econômica entre lâmpadas LED e energia solar.
+- Concluiu? Sim.
+- Dificuldade observada: Teve um pouco de dificuldade para compreender os custos iniciais da instalação de energia solar.
+- Comentário: Considerou as informações úteis e conseguiu entender que a substituição por lâmpadas LED exige um investimento menor e pode gerar economia na conta de luz.
+- Ajuste realizado: Melhorar a explicação sobre os custos iniciais e as vantagens de cada alternativa.
 
 ## Integrantes
 - Victor Hugo Lavaqui - RM: 573838
