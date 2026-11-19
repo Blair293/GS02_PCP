@@ -1,0 +1,8 @@
+﻿data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+2026-11-16T00:22:00,categoria,Consultar serviços relacionados ao título de eleitor,7,True,True,1,7.8
+2026-11-16T12:26:24,categoria,Consultar informações sobre estágio,10,True,True,1,15.8
+2026-11-16T12:44:18,categoria,Criar ou acessar uma conta gov.br,1,True,True,1,6.4
+2026-11-16T12:44:28,categoria,Consultar informações sobre CPF,2,True,True,1,6.5
+2026-11-16T12:44:39,categoria,Consultar serviços relacionados ao título de eleitor,7,True,True,1,10.0
+2026-11-18T22:43:53,pergunta,o que é necessário para trabalhar no meu primeiro emprego?,4,True,True,1,49.5
+2026-11-18T22:44:21,categoria,Consultar informações sobre Jovem Aprendiz,5,True,True,1,7.7

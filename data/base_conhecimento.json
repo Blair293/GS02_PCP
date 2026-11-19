@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "categoria": "Documentos e cadastro",
+        "titulo": "Criar ou acessar uma conta gov.br",
+        "palavras_chave": [
+            "gov br",
+            "conta gov",
+            "acesso gov",
+            "senha gov"
+        ],
+        "resposta": "A conta gov.br permite acessar serviços digitais do governo. Consulte o portal oficial para criar a conta, entrar ou recuperar o acesso. Nunca compartilhe sua senha.",
+        "documentos": [
+            "Tenha em mãos os dados solicitados pelo próprio portal oficial; não informe esses dados neste assistente."
+        ],
+        "onde": "Portal oficial gov.br",
+        "fonte": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br",
+        "verificado_em": "2026-11-14"
+    },
+    {
+        "id": 2,
+        "categoria": "Documentos e cadastro",
+        "titulo": "Consultar informações sobre CPF",
+        "palavras_chave": [
+            "cpf",
+            "situacao cpf",
+            "regularizar cpf",
+            "comprovante cpf"
+        ],
+        "resposta": "A Receita Federal disponibiliza serviços oficiais relacionados ao CPF, incluindo consulta de situação cadastral. Use somente os canais oficiais.",
+        "documentos": [
+            "As informações exigidas variam conforme o serviço. Não digite seu número de CPF neste assistente."
+        ],
+        "onde": "Site da Receita Federal",
+        "fonte": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+        "verificado_em": "2026-11-14"
+    },
+    {
+        "id": 3,
+        "categoria": "Trabalho e emprego",
+        "titulo": "Obter a Carteira de Trabalho Digital",
+        "palavras_chave": [
+            "carteira trabalho",
+            "ctps digital",
+            "carteira digital",
+            "registro trabalho"
+        ],
+        "resposta": "A Carteira de Trabalho Digital é disponibilizada por meio dos canais digitais oficiais do governo. Consulte o portal para orientações de acesso e utilização.",
+        "documentos": [
+            "Conta gov.br e dados solicitados pelo serviço oficial."
+        ],
+        "onde": "Aplicativo Carteira de Trabalho Digital ou serviço oficial do governo",
+        "fonte": "https://www.gov.br/pt-br/temas/carteira-de-trabalho-digital",
+        "verificado_em": "2026-11-14"
+    },
+    {
+        "id": 4,
+        "categoria": "Trabalho e emprego",
+        "titulo": "Buscar vagas de emprego pelo SINE",
+        "palavras_chave": [
+            "sine",
+            "vaga emprego",
+            "emprego",
+            "trabalhador"
+        ],
+        "resposta": "O SINE integra serviços públicos de trabalho e emprego. Consulte os canais oficiais para verificar vagas e as formas de atendimento disponíveis na sua região.",
+        "documentos": [
+            "Os documentos podem variar conforme o serviço e a unidade. Confirme antes de comparecer."
+        ],
+        "onde": "Portal Emprega Brasil ou unidade de atendimento indicada oficialmente",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
+        "verificado_em": "2026-11-14"
+    },
+    {
+        "id": 5,
+        "categoria": "Trabalho e emprego",
+        "titulo": "Consultar informações sobre Jovem Aprendiz",
+        "palavras_chave": [
+            "jovem aprendiz",
+            "aprendizagem profissional",
+            "aprendiz",
+            "primeiro emprego"
+        ],
+        "resposta": "A aprendizagem profissional é uma modalidade de formação técnico-profissional prevista na legislação trabalhista. Consulte o Ministério do Trabalho e Emprego para conhecer as regras e orientações oficiais.",
+        "documentos": [
+            "Os requisitos e documentos dependem da vaga e do programa. Leia o anúncio e confirme com a instituição responsável."
+        ],
+        "onde": "Portal do Ministério do Trabalho e Emprego e instituições qualificadoras",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
+        "verificado_em": "2026-11-14"
+    },
+    {
+        "id": 6,
+        "categoria": "Trabalho e emprego",
+        "titulo": "Consultar direitos relacionados ao FGTS",
+        "palavras_chave": [
+            "fgts",
+            "fundo garantia",
+            "saldo fgts",
+            "direitos trabalhistas"
+        ],
+        "resposta": "O FGTS possui canais oficiais para consulta de informações e serviços. Consulte a Caixa Econômica Federal para verificar as orientações atualizadas.",
+        "documentos": [
+            "Os dados necessários dependem do serviço. Não compartilhe senhas ou informações pessoais neste assistente."
+        ],
+        "onde": "Aplicativo FGTS ou canais oficiais da Caixa",
+        "fonte": "https://www.caixa.gov.br/beneficios-trabalhador/fgts",
+        "verificado_em": "2026-11-14"
+    },
+    {
+        "id": 7,
+        "categoria": "Documentos e cadastro",
+        "titulo": "Consultar serviços relacionados ao título de eleitor",
+        "palavras_chave": [
+            "titulo eleitor",
+            "titulo eleitoral",
+            "e titulo",
+            "justica eleitoral"
+        ],
+        "resposta": "A Justiça Eleitoral oferece serviços digitais para consultar informações eleitorais e orientações sobre o título. Verifique no portal oficial qual serviço atende à sua necessidade.",
+        "documentos": [
+            "A documentação depende do serviço solicitado. Consulte a lista oficial antes de iniciar."
+        ],
+        "onde": "Portal do Tribunal Superior Eleitoral ou aplicativo e-Título",
+        "fonte": "https://www.tse.jus.br/servicos-eleitorais",
+        "verificado_em": "2026-11-14"
+    },
+    {
+        "id": 8,
+        "categoria": "Qualificação profissional",
+        "titulo": "Procurar cursos de qualificação profissional",
+        "palavras_chave": [
+            "curso profissionalizante",
+            "qualificacao",
+            "curso gratuito",
+            "capacitacao"
+        ],
+        "resposta": "É possível consultar programas e oportunidades de qualificação em instituições públicas e serviços oficiais. Confira requisitos, disponibilidade, local e eventuais custos diretamente com a instituição.",
+        "documentos": [
+            "Os documentos e requisitos variam conforme o curso e a instituição."
+        ],
+        "onde": "Instituições de ensino e canais oficiais de qualificação profissional",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
+        "verificado_em": "2026-11-14"
+    },
+    {
+        "id": 9,
+        "categoria": "Qualificação profissional",
+        "titulo": "Consultar cursos e oportunidades no Pronatec",
+        "palavras_chave": [
+            "pronatec",
+            "curso tecnico",
+            "educacao profissional",
+            "formacao tecnica"
+        ],
+        "resposta": "O Pronatec está relacionado à ampliação do acesso à educação profissional e tecnológica. Consulte os canais oficiais do Ministério da Educação para verificar programas e ofertas disponíveis.",
+        "documentos": [
+            "Os critérios de participação dependem do curso e do edital vigente."
+        ],
+        "onde": "Portal do Ministério da Educação e instituições ofertantes",
+        "fonte": "https://www.gov.br/mec/pt-br",
+        "verificado_em": "2026-11-14"
+    },
+    {
+        "id": 10,
+        "categoria": "Qualificação profissional",
+        "titulo": "Consultar informações sobre estágio",
+        "palavras_chave": [
+            "estagio",
+            "lei estagio",
+            "estagiario",
+            "vaga estagio"
+        ],
+        "resposta": "O estágio é regulamentado por legislação específica. Consulte o texto legal e confirme as condições do estágio com a instituição de ensino e a organização concedente.",
+        "documentos": [
+            "A documentação depende da instituição de ensino e da organização concedente."
+        ],
+        "onde": "Instituição de ensino e organização que oferece o estágio",
+        "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+        "verificado_em": "2026-11-14"
+    }
+]
